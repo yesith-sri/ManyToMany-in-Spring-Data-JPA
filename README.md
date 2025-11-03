@@ -11,7 +11,4 @@ To gain a deeper theoretical understanding before exploring the code, check out 
 
 👉 [Mastering Many-to-Many in Spring Data JPA – Unidirectional vs Bidirectional (with Complete Code)](https://medium.com/@hansana.etec1216/mastering-manytomany-in-spring-data-jpa-unidirectional-vs-bidirectional-with-complete-code-ddaa498d2b73)
 
----
-
-## 🧩 Project Structure
 
